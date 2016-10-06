@@ -12,6 +12,7 @@ Now find definitions for
   * logic bomb
   * Macro virus
   * port scan
+  *tabjacking
   * ransomware
   * rootkit
   * worm
