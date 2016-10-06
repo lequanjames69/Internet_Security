@@ -3,7 +3,7 @@
 * for each url find some new term relating to security and get a definition of it 
 
 Now find definitions for
-  * Advanced Persistent Treat
+  * Advanced Persistent Threat
   * backdoor
   * botnet
   * brute force
